@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Claire Jones
 
-<!--
-**cejones8/cejones8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Data Science at the University of Virginia, concentrating in Sports Analytics. B.S. in Mathematics & Statistics (Data Analytics concentration) from James Madison University.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib
+- **Tools:** Jupyter, Git, GitHub
+
+## Featured Projects
+
+**Athlete Workload Monitoring & Performance Dashboard** | UVA Basketball (MSDS Practicum)
+Built SQL and Python pipelines in Microsoft Fabric to process wearable tracker data for 30 men's and women's basketball players, and developed dashboards that give strength and recovery staff a single source for daily decisions. Used correlation and multiple linear regression to model how drill time and mileage relate to force exerted, and presented recommendations that led coaches to adjust drill volume and recovery protocols. *Code not public due to athlete data confidentiality.*
+
+**[Interpretable ML for Wine Quality Prediction](https://github.com/cejones8/Wine-Quality-Prediction)** | JMU Research Project
+Random Forest classifier on the UCI Wine Quality dataset (6,497 samples), using SMOTE and RandomizedSearchCV to address class imbalance. Used permutation importance and SHAP to identify alcohol, volatile acidity, and free sulfur dioxide as top predictors.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/cejones8) | [Email](mailto:ClaireJones5704@gmail.com)
