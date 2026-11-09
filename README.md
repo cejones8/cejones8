@@ -4,9 +4,10 @@ Master's student in Data Science at the University of Virginia, concentrating in
 
 ## Skills
 
-- **Languages:** Python, SQL
-- **Libraries:** pandas, NumPy, scikit-learn, matplotlib
-- **Tools:** Jupyter, Git, GitHub
+- **Languages:** Python, SQL, R
+- **Libraries:** pandas, NumPy, scikit-learn, statsmodels, GeoPandas, matplotlib, seaborn
+- **Methods:** Random Forest, linear and multiple regression, correlation analysis, SMOTE, cross-validation, SHAP
+- **Tools:** Microsoft Fabric, Jupyter, Git/GitHub, SQLite
 
 ## Featured Projects
 
