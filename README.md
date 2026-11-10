@@ -17,6 +17,9 @@ Built SQL and Python pipelines in Microsoft Fabric to process wearable tracker d
 **[Interpretable ML for Wine Quality Prediction](https://github.com/cejones8/Wine-Quality-Prediction)** | JMU Research Project
 Random Forest classifier on the UCI Wine Quality dataset (6,497 samples), using SMOTE and RandomizedSearchCV to address class imbalance. Used permutation importance and SHAP to identify alcohol, volatile acidity, and free sulfur dioxide as top predictors.
 
+**[Code & Crochet: Predicting Planned Pooling Patterns](https://github.com/cejones8/Code-and-Crochet)** | JMU Research Project, Bridges 2024
+Collaborative research on planned pooling in crochet, using modular arithmetic to prove formulas for row lengths that produce geometric patterns, with Python and JavaScript tools for previewing them.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/cejones8) | [Email](mailto:ClaireJones5704@gmail.com)
